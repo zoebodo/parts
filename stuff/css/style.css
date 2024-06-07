@@ -1,0 +1,41 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: cornflowerblue;
+    overflow: hidden;
+
+}
+li{
+    float: left;
+
+}
+li a{
+    padding: 20px;
+    text-decoration: none;
+    display: block;
+    color: white;
+    font-family: Rockwell
+
+}
+li a:hover{
+    background-color: aliceblue;
+    color: black;
+    font-family: Rockwell
+}
+h2{
+    text-align: left;
+    font-family: Rockwell
+}
+p{
+    font-family: Rockwell;
+}
+h3{
+    font-family: Rockwell
+}
+label{
+    font-family: Rockwell
+}
+input{
+    font-family: Rockwell
+}
